@@ -17,20 +17,11 @@ $ python Main.py
 
 ## Controls
 
-* Press the left mouse button and drag to pan across the graph.
-* Press up and down on the keyboard to zoom in and out.
-* Click on an equation to edit it, to plot the equation press enter.
+* Press 'r' to reset the simulation.
+* Press 'x' to toggle tracing trajectories.
+* Press up and down to slow or speed up time.
+* Press space to pause.
 * Press ESC to exit.
-
-## Supported Functions and Constants
-
-* The absolute value function, `abs(x)`.
-* The factorial function, `factorial(x)`.
-* The logarithmic function of `a` base `b`, `log(a[, b])` (`ln` notation is also accepted).
-* Exponentiation is supported through, `x**y`, `x^y` or `pow(x, y)`.
-* Square roots are supported through, `sqrt(x)` (exponentiation also works).
-* The trigonometric function `sin(x)`, `cos(x)` and `tan(x)`.
-* The constants `pi` and `e`.
 
 ## Dependencies
 
